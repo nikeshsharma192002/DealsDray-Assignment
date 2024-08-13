@@ -39,33 +39,17 @@ This repository contains an Employee Management System built using React.js for 
    ```bash
    cd backend
    npm install
-   
-  For the frontend, navigate to the client directory and run:
+
+For the frontend, navigate to the client directory and run:
    ```bash
-   cd frontend
-   pm install
+   cd client
+   npm install
+
 3. **Configure the MongoDB database**:
 
-  Make sure you have MongoDB installed and running on your machine.
-  Create the necessary tables in the database by running the MongoDB scripts provided in the Database Schema section.
-  Run the application:
+Make sure you have MongoDB installed and running on your machine.
+Create the necessary tables in the database by running the MongoDB scripts provided in the Database Schema section.
 
-  Start the backend server:
-  ```bash
-  cd backend
-  npm start
+Access the application:
 
-  Start the frontend development server:
-  ```bash
-  cd frontend
-  npm start
-
-  Access the application:
-  Open your browser and navigate to http://localhost:3000 to access the application.
-
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
+Open your browser and navigate to http://localhost:3000 to access the application.
