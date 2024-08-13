@@ -12,6 +12,9 @@ This repository contains an Employee Management System built using React.js for 
 - [Login Management](#login-management)
 - [License](#license)
 
+## Video Demo
+   Watch the video demo of the Employee Management System here. ()
+
 ## Features
 
 - User authentication (login and logout)
@@ -39,11 +42,13 @@ This repository contains an Employee Management System built using React.js for 
    ```bash
    cd backend
    npm install
-
-For the frontend, navigate to the client directory and run:
+   npm start
+   
+   For the backend, navigate to the server directory and run:
    ```bash
-   cd client
+   cd backend
    npm install
+   npm start
 
 3. **Configure the MongoDB database**:
 
