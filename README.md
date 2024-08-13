@@ -13,7 +13,7 @@ This repository contains an Employee Management System built using React.js for 
 - [License](#license)
 
 ## Video Demo
-   Watch the video demo of the Employee Management System [here]. (DEALSDRAY-Assignemnt-Video.mp4)
+   Watch the video demo of the Employee Management System [here](DEALSDRAY-Assignemnt-Video.mp4).
 
 ## Features
 
