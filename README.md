@@ -13,7 +13,7 @@ This repository contains an Employee Management System built using React.js for 
 - [License](#license)
 
 ## Video Demo
-   Watch the video demo of the Employee Management System here. ()
+   Watch the video demo of the Employee Management System [here]. (DEALSDRAY-Assignemnt-Video.mp4)
 
 ## Features
 
@@ -52,9 +52,9 @@ This repository contains an Employee Management System built using React.js for 
 
 3. **Configure the MongoDB database**:
 
-Make sure you have MongoDB installed and running on your machine.
-Create the necessary tables in the database by running the MongoDB scripts provided in the Database Schema section.
+   Make sure you have MongoDB installed and running on your machine.
+   Create the necessary tables in the database by running the MongoDB scripts provided in the Database Schema section.
 
-Access the application:
+   Access the application:
 
-Open your browser and navigate to http://localhost:3000 to access the application.
+   Open your browser and navigate to http://localhost:3000 to access the application.
